@@ -9,6 +9,8 @@ permalink: /
 
 Это мой цифровой сад, но здесь пока ничего нет (сэд фэйс). Вообще я обычно делаю заметки на бумаге и, скорее всего, редко сюда что-то буду постить
 
+<img src="https://i.pinimg.com/originals/7a/b9/f2/7ab9f2e22cd527deed9e9471770f611e.gif" alt="image">
+
 Мой <a class="external-link" href="https://t.me/fifkukstg" title="Telegram">телеграм</a>
 
 ## Содержание
