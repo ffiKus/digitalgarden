@@ -9,7 +9,7 @@ permalink: /
 
 Это мой цифровой сад, но здесь пока ничего нет (сэд фэйс). Вообще я обычно делаю заметки на бумаге и, скорее всего, редко сюда что-то буду постить
 
-Мой <a class="external-link" href="https://t.me/fifkukstg" title="Telegram"></a>
+Мой <a class="external-link" href="https://t.me/fifkukstg" title="Telegram">телеграм</a>
 
 ## Содержание
 
